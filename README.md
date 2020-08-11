@@ -5,9 +5,9 @@ This is my frist api
 ### installing
 
 Explain how to run the automated tests for this system
-'''
+```
 npm start
-'''
+```
 
 ## Built With
 
